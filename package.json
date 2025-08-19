@@ -32,10 +32,10 @@
     "eslint-config-prettier": "^9.1.2",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-prettier": "^5.5.3",
-    "typescript": "^5.8.3",
-    "@types/node": "^22.16.5"
+    "typescript": "^5.8.3"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@livekit/agents": "^0.7.9",
     "@livekit/agents-plugin-cartesia": "^0.1.4",
     "@livekit/agents-plugin-deepgram": "^0.5.7",
